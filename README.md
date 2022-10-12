@@ -12,8 +12,6 @@
 
 ## Codiga
 
-## Build on Windows
-
 
 # Valgrind
 [![Valgrind](https://github.com/deepanaik3/M1_Project/actions/workflows/valgrid.yml/badge.svg)](https://github.com/deepanaik3/M1_Project/actions/workflows/valgrid.yml)
