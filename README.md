@@ -3,6 +3,7 @@
 ## Build on Linux
 
 ## Cppcheck Analysis
+[![Cppcheck Analysis](https://github.com/deepanaik3/M1_Project/actions/workflows/cppcheck_Analyse.yml/badge.svg)](https://github.com/deepanaik3/M1_Project/actions/workflows/cppcheck_Analyse.yml)
 
 ## Unit Testing
 
